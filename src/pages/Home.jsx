@@ -1,7 +1,7 @@
 import { useState } from "react";
 import FormulaInput from "../components/FormulaInput";
 import Result from "../components/Result";
-import formulas from "../data/forumals.json";
+import formulas from "../data/formulas.json";
 
 function Home() {
   const [result, setResult] = useState("");
