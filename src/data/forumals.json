@@ -1,0 +1,106 @@
+[{
+        "id": 1,
+        "input": "(a+b)2",
+        "output": "a² + 2ab + b²"
+    },
+    {
+        "id": 2,
+        "input": "(a-b)2",
+        "output": "a² - 2ab + b²"
+    },
+    {
+        "id": 3,
+        "input": "(a+b)(a-b)",
+        "output": "a² - b²"
+    },
+    {
+        "id": 4,
+        "input": "(x+y)3",
+        "output": "x³ + 3x²y + 3xy² + y³"
+    },
+    {
+        "id": 5,
+        "input": "(x-y)3",
+        "output": "x³ - 3x²y + 3xy² - y³"
+    },
+    {
+        "id": 6,
+        "input": "(a+b+c)2",
+        "output": "a² + b² + c² + 2ab + 2ac + 2bc"
+    },
+    {
+        "id": 7,
+        "input": "(a-b+c)2",
+        "output": "a² + b² + c² - 2ab + 2ac - 2bc"
+    },
+    {
+        "id": 8,
+        "input": "(x+y+z)3",
+        "output": "x³ + y³ + z³ + 3x²y + 3x²z + 3xy² + 3xz² + 3y²z + 3yz² + 6xyz"
+    },
+    {
+        "id": 9,
+        "input": "(x-y+z)3",
+        "output": "x³ - y³ + z³ - 3x²y + 3x²z - 3xy² + 3xz² - 3y²z + 3yz² - 6xyz"
+    },
+    {
+        "id": 10,
+        "input": "(a+b)4",
+        "output": "a⁴ + 4a³b + 6a²b² + 4ab³ + b⁴"
+    },
+    {
+        "id": 11,
+        "input": "(a-b)4",
+        "output": "a⁴ - 4a³b + 6a²b² - 4ab³ + b⁴"
+    },
+    {
+        "id": 12,
+        "input": "(x+y)5",
+        "output": "x⁵ + 5x⁴y + 10x³y² + 10x²y³ + 5xy⁴ + y⁵"
+    },
+    {
+        "id": 13,
+        "input": "(x-y)5",
+        "output": "x⁵ - 5x⁴y + 10x³y² - 10x²y³ + 5xy⁴ - y⁵"
+    },
+    {
+        "id": 14,
+        "input": "(a+b+c)3",
+        "output": "a³ + b³ + c³ + 3a²b + 3a²c + 3ab² + 3ac² + 3b²c + 3bc² + 6abc"
+    },
+    {
+        "id": 15,
+        "input": "(a-b+c)3",
+        "output": "a³ - b³ + c³ - 3a²b + 3a²c - 3ab² + 3ac² - 3b²c + 3bc² - 6abc"
+    },
+    {
+        "id": 16,
+        "input": "(x+y+z)4",
+        "output": "x⁴ + y⁴ + z⁴ + 4x³y + 4x³z + 4xy³ + 4xz³ + 4y³z + 4yz³ + 6x²y² + 6x²z² + 6y²z² + 12x²yz + 12xy²z + 12xyz²"
+    },
+    {
+        "id": 17,
+        "input": "(x-y+z)4",
+        "output": "x⁴ - y⁴ + z⁴ - 4x³y + 4x³z - 4xy³ + 4xz³ - 4y³z + 4yz³ + 6x²y² - 6x²z² + 6y²z² - 12x²yz + 12xy²z - 12xyz²"
+    },
+    {
+        "id": 18,
+        "input": "(a+b+c+d)2",
+        "output": "a² + b² + c² + d² + 2ab + 2ac + 2ad + 2bc + 2bd + 2cd"
+    },
+    {
+        "id": 19,
+        "input": "(a-b+c-d)2",
+        "output": "a² + b² + c² + d² - 2ab + 2ac - 2ad - 2bc + 2bd - 2cd"
+    },
+    {
+        "id": 20,
+        "input": "(x+y+z+w)3",
+        "output": "x³ + y³ + z³ + w³ + 3x²y + 3x²z + 3x²w + 3xy² + 3xz² + 3xw² + 3y²z + 3y²w + 3yz² + 3yw² + 3z²w + 3zw² + 6xyz + 6xyw + 6xzw + 6yzw"
+    },
+    {
+        "id": 21,
+        "input": "(x-y+z-w)3",
+        "output": "x³ - y³ + z³ - w³ - 3x²y + 3x²z - 3x²w - 3xy² - 3xz² - 3xw² - 3y²z - 3y²w - 3yz² - 3yw² - 3z²w - 3zw² - 6xyz + 6xyw - 6xzw + 6yzw"
+    }
+]
