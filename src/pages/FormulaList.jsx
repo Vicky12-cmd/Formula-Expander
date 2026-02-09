@@ -1,4 +1,4 @@
-import formulas from "../data/forumals.json";
+import formulas from "../data/formulas.json";
 
 function FormulaList() {
   return (
